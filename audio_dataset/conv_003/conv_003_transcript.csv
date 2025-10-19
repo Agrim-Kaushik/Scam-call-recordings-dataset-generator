@@ -1,0 +1,15 @@
+start,end,speaker,role,text,voice
+0.0,1.77,VICTIM,victim,Hello?,en-US-AriaNeural
+2.61,10.84,SCAMMER,scammer,"Good afternoon, ma'am. This is David calling from the Security Department at First National Bank. Am I speaking with Mrs. Eleanor Davies?",en-US-BrianNeural
+11.7,14.12,VICTIM,victim,"Yes, this is she. What's this about?",en-US-AriaNeural
+14.54,27.71,SCAMMER,scammer,"Mrs. Davies, we've detected some unusual activity on your debit card. There appear to be two pending transactions for a large amount originating from outside the state. Are you familiar with these?",en-US-BrianNeural
+28.09,34.36,VICTIM,victim,"No, I haven't made any recent purchases, especially not out of state. That sounds… concerning.",en-US-AriaNeural
+34.77,48.27,SCAMMER,scammer,"Exactly, Mrs. Davies. That's why I'm calling. To prevent any further unauthorized charges, we need to verify your identity and secure your account immediately. Could you please confirm the last four digits of your social security number?",en-US-BrianNeural
+49.01,52.92,VICTIM,victim,Uh… I’m a little hesitant to give that out over the phone.,en-US-AriaNeural
+53.63,70.04,SCAMMER,scammer,"I understand your concern, Mrs. Davies, but this is a secure line, and it's standard procedure for identity verification. I can assure you, this is necessary to protect your funds. We also need to cancel these fraudulent transactions and issue you a new card.",en-US-BrianNeural
+70.5,80.23,VICTIM,victim,Okay… the last four digits are 47… wait a minute. What kind of transactions are these? Can you tell me what the amount is?,en-US-AriaNeural
+81.03,90.43,SCAMMER,scammer,"One is for $789 to… let me see… Best Buy online, and the other is for $1250 to… uh… a travel agency in Florida.",en-US-BrianNeural
+91.17,98.47,VICTIM,victim,I haven't ordered anything from Best Buy and definitely haven’t booked any travel. This is definitely not me.,en-US-AriaNeural
+98.99,110.2,SCAMMER,scammer,"Right, Mrs. Davies. So, to proceed, I need you to confirm your one-time password that has just been sent to your registered mobile number. This will allow me to freeze the transactions.",en-US-BrianNeural
+110.68,119.2,VICTIM,victim,Wait a minute… I haven’t received any text messages. This sounds… fishy. I think I’m going to call the bank directly to confirm this.,en-US-AriaNeural
+120.09,131.17,SCAMMER,scammer,"Mrs. Davies, with all due respect, every second counts. While you're on hold, those transactions could go through! This is a time-sensitive matter. Please, just read me the OTP.",en-US-BrianNeural

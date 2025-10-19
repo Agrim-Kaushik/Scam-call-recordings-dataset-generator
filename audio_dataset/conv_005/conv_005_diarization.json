@@ -1,0 +1,120 @@
+{
+  "file_id": "conv_005",
+  "duration": 118.29,
+  "language": "hinglish",
+  "scam_type": "relative_emergency",
+  "voices": {
+    "victim": "en-IN-PrabhatNeural",
+    "scammer": "en-GB-SoniaNeural"
+  },
+  "genders": {
+    "victim": "male",
+    "scammer": "female"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.47,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Hello?",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 2.1,
+      "end": 10.23,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Ji, namaste madam. This is Rahul calling from the security department of your bank. Am I speaking with Mrs. Sharma?",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 11.22,
+      "end": 14.04,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Yes, this is she. What's this about?",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 14.59,
+      "end": 27.23,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, we've detected some suspicious activity on your account. There appear to be multiple failed login attempts from an unknown location. Uh... are you aware of any recent transactions you didn't authorize?",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 27.99,
+      "end": 33.72,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "No, I haven't noticed anything unusual. But... I haven't checked my account in a few days.",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 34.43,
+      "end": 49.66,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Exactly, madam. That's why we're calling. To prevent any potential fraud, we need to verify your identity and secure your account immediately. For that, I'll need to confirm a few details with you. Can you please confirm your date of birth?",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 50.13,
+      "end": 55.8,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Just a minute... um... why do you need my date of birth? Shouldn't you already have that?",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 56.26,
+      "end": 67.08,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, for security reasons, we need to cross-verify to ensure we're speaking with the correct account holder. There's been a security breach, and we need to be extra cautious. It's a standard procedure, madam.",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 67.8,
+      "end": 69.91,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Ok... it's 15th of August, 1978.",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 70.85,
+      "end": 83.59,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Thank you, madam. Now, I'm sending an OTP to your registered mobile number. Please provide that to me so we can proceed with securing your account. Don’t worry, it’s a standard security measure.",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 84.32,
+      "end": 90.68,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "OTP? But I don't feel comfortable giving that over the phone. This sounds a bit fishy.",
+      "voice": "en-IN-PrabhatNeural"
+    },
+    {
+      "start": 91.58,
+      "end": 108.51,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, I understand your concern, but this is a genuine attempt to protect your funds. If you don’t provide the OTP, your account could be compromised. Think about it...all your hard earned money at risk. Rahul from the bank is just trying to help.",
+      "voice": "en-GB-SoniaNeural"
+    },
+    {
+      "start": 108.87,
+      "end": 117.51,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "No, I... I think I'll just go to the bank branch directly tomorrow and sort this out. I'm not giving you any OTP. Goodbye.",
+      "voice": "en-IN-PrabhatNeural"
+    }
+  ]
+}

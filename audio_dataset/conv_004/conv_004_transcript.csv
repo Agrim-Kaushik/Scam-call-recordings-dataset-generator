@@ -1,0 +1,16 @@
+start,end,speaker,role,text,voice
+0.0,1.65,VICTIM,victim,Hello?,en-US-AndrewNeural
+2.45,10.01,SCAMMER,scammer,"Good morning, Madam. This is David from the security department at First National Bank. Am I speaking with Mrs. Emily Carter?",en-US-BrianNeural
+10.56,12.79,VICTIM,victim,"Yes, this is she. What's this about?",en-US-AndrewNeural
+13.32,31.7,SCAMMER,scammer,"Mrs. Carter, we've detected some unusual activity on your debit card. There seem to be two pending transactions, one for $500 at an online electronics store and another for $800 at a jewelry shop, both made just a few minutes ago. Did you authorize these transactions?",en-US-BrianNeural
+32.43,37.7,VICTIM,victim,"No, I absolutely did not. I haven't used my card at all today.",en-US-AndrewNeural
+38.46,52.01,SCAMMER,scammer,"Okay, Mrs. Carter, that's what we suspected. We've flagged the transactions, but to secure your account further, we need to verify some information. Could you please confirm your date of birth for verification?",en-US-BrianNeural
+52.94,54.89,VICTIM,victim,"Uh… It's August 12th, 1978.",en-US-AndrewNeural
+55.51,70.42,SCAMMER,scammer,"Thank you. Now, to cancel these fraudulent transactions, I need to send you a one-time password to your registered mobile number. Once you receive it, please read it out to me so I can confirm your identity.",en-US-BrianNeural
+71.32,80.63,VICTIM,victim,"Wait a minute… I'm a little uneasy giving out a password like that over the phone. Isn't that, like, the first rule of internet safety?",en-US-AndrewNeural
+81.1,106.23,SCAMMER,scammer,"Mrs. Carter, I understand your concern, but this is a secure line, and I am a verified employee of First National Bank. David is my name, and you can verify my credentials by calling our customer service line after this call. However, time is of the essence to stop these fraudulent transactions. The OTP is just to confirm it's really you we are dealing with.",en-US-BrianNeural
+106.9,110.74,VICTIM,victim,... Okay. I just received a text message. The OTP is 7-4-9-2-1-6.,en-US-AndrewNeural
+111.4,127.36,SCAMMER,scammer,"Thank you, Mrs. Carter. Just one moment while I enter that… Okay, perfect! Now, to ensure no further unauthorized access, we will need to freeze your debit card and issue a new one. To do this, could you please confirm the last four digits of your social security number?",en-US-BrianNeural
+127.68,135.14,VICTIM,victim,You know what? This is sounding more and more like a scam. I'm going to hang up and call the bank directly.,en-US-AndrewNeural
+135.57,139.39,SCAMMER,scammer,"Mrs. Carter, please don't! You're putting your account at risk! The transactions…",en-US-BrianNeural
+140.13,141.59,VICTIM,victim,Goodbye.,en-US-AndrewNeural

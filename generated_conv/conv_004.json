@@ -1,0 +1,88 @@
+{
+  "file_id": "conv_004",
+  "scam_type": "relative_emergency",
+  "language": "english",
+  "segments": [
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Good morning, Madam. This is David from the security department at First National Bank. Am I speaking with Mrs. Emily Carter?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Yes, this is she. What's this about?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Mrs. Carter, we've detected some unusual activity on your debit card. There seem to be two pending transactions, one for $500 at an online electronics store and another for $800 at a jewelry shop, both made just a few minutes ago. Did you authorize these transactions?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "No, I absolutely did not. I haven't used my card at all today."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Okay, Mrs. Carter, that's what we suspected. We've flagged the transactions, but to secure your account further, we need to verify some information. Could you please confirm your date of birth for verification?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Uh… It's August 12th, 1978."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Thank you. Now, to cancel these fraudulent transactions, I need to send you a one-time password to your registered mobile number. Once you receive it, please read it out to me so I can confirm your identity."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Wait a minute… I'm a little uneasy giving out a password like that over the phone. Isn't that, like, the first rule of internet safety?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Mrs. Carter, I understand your concern, but this is a secure line, and I am a verified employee of First National Bank. David is my name, and you can verify my credentials by calling our customer service line after this call. However, time is of the essence to stop these fraudulent transactions. The OTP is just to confirm it's really you we are dealing with."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "... Okay. I just received a text message. The OTP is 7-4-9-2-1-6."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Thank you, Mrs. Carter. Just one moment while I enter that… Okay, perfect! Now, to ensure no further unauthorized access, we will need to freeze your debit card and issue a new one. To do this, could you please confirm the last four digits of your social security number?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "You know what? This is sounding more and more like a scam. I'm going to hang up and call the bank directly."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Mrs. Carter, please don't! You're putting your account at risk! The transactions…"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Goodbye."
+    }
+  ],
+  "num_speakers": 2,
+  "speaker_roles": [
+    "victim",
+    "scammer"
+  ],
+  "timestamp": "2025-10-19T12:33:35.815060"
+}

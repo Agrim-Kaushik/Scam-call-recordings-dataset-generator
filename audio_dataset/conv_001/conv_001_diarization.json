@@ -1,0 +1,112 @@
+{
+  "file_id": "conv_001",
+  "duration": 82.64,
+  "language": "hindi",
+  "scam_type": "tech_support",
+  "voices": {
+    "victim": "hi-IN-SwaraNeural",
+    "scammer": "hi-IN-MadhurNeural"
+  },
+  "genders": {
+    "victim": "female",
+    "scammer": "male"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "हैलो? कौन है?",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 2.29,
+      "end": 8.43,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "नमस्ते, मैं भारतीय स्टेट बैंक से बोल रहा हूँ। क्या मैं रमेश कुमार से बात कर रहा हूँ?",
+      "voice": "hi-IN-MadhurNeural"
+    },
+    {
+      "start": 8.96,
+      "end": 11.98,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "हाँ, मैं रमेश ही हूँ। क्या बात है?",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 12.49,
+      "end": 20.51,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "सर, आपके खाते में एक संदिग्ध लेन-देन हुआ है। क्या आपने अभी-अभी दस हज़ार रुपये का भुगतान किया है किसी अंजान व्यापारी को?",
+      "voice": "hi-IN-MadhurNeural"
+    },
+    {
+      "start": 21.31,
+      "end": 25.95,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "दस हज़ार? नहीं, मैंने तो कोई भुगतान नहीं किया। ये क्या हो रहा है?",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 26.82,
+      "end": 37.82,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "चिंता मत कीजिए सर, हम आपकी मदद के लिए ही फोन कर रहे हैं। हमें आपका खाता सुरक्षित करना होगा। क्या आप अपना डेबिट कार्ड अपने पास रख सकते हैं?",
+      "voice": "hi-IN-MadhurNeural"
+    },
+    {
+      "start": 38.62,
+      "end": 42.31,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "हाँ, मेरे पास ही है। पर... मुझे समझ नहीं आ रहा।",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 42.83,
+      "end": 51.85,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "ठीक है। कार्ड पर जो सोलह अंकों का नंबर है, वो कृपया मुझे बता सकते हैं? ये ज़रूरी है, सर, वर्ना आपका खाता ब्लॉक हो सकता है।",
+      "voice": "hi-IN-MadhurNeural"
+    },
+    {
+      "start": 52.5,
+      "end": 61.82,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "अह... मुझे थोड़ा अजीब लग रहा है। क्या आप बैंक से बोल रहे हैं? मैं बाद में बैंक में जाकर पता कर सकता हूँ।",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 62.59,
+      "end": 71.65,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "सर, आपके पास ज़्यादा समय नहीं है। अगर आप तुरंत नहीं बताते, तो आपके खाते से और भी पैसे निकाले जा सकते हैं।",
+      "voice": "hi-IN-MadhurNeural"
+    },
+    {
+      "start": 72.64,
+      "end": 78.77,
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "नहीं, मैं अभी अपना कार्ड नंबर नहीं बताऊँगा। धन्यवाद। मैं खुद बैंक जाकर बात कर लूँगा।",
+      "voice": "hi-IN-SwaraNeural"
+    },
+    {
+      "start": 79.39,
+      "end": 82.33,
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "सुनिए... सुनिए! आप बहुत बड़ी गलती कर रहे हैं!",
+      "voice": "hi-IN-MadhurNeural"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+file_id,filename,scam_type,language,num_speakers,speaker_roles,timestamp
+conv_001,conv_001.json,tech_support,hindi,2,"victim,scammer",2025-10-19T12:33:21.283009
+conv_002,conv_002.json,relative_emergency,hinglish,2,"victim,scammer",2025-10-19T12:33:26.323419
+conv_003,conv_003.json,relative_emergency,english,2,"victim,scammer",2025-10-19T12:33:31.035987
+conv_004,conv_004.json,relative_emergency,english,2,"victim,scammer",2025-10-19T12:33:35.815060
+conv_005,conv_005.json,relative_emergency,hinglish,2,"victim,scammer",2025-10-19T12:33:40.605822

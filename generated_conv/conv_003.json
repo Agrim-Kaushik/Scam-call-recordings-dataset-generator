@@ -1,0 +1,83 @@
+{
+  "file_id": "conv_003",
+  "scam_type": "relative_emergency",
+  "language": "english",
+  "segments": [
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Good afternoon, ma'am. This is David calling from the Security Department at First National Bank. Am I speaking with Mrs. Eleanor Davies?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Yes, this is she. What's this about?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Mrs. Davies, we've detected some unusual activity on your debit card. There appear to be two pending transactions for a large amount originating from outside the state. Are you familiar with these?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "No, I haven't made any recent purchases, especially not out of state. That sounds… concerning."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Exactly, Mrs. Davies. That's why I'm calling. To prevent any further unauthorized charges, we need to verify your identity and secure your account immediately. Could you please confirm the last four digits of your social security number?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Uh… I’m a little hesitant to give that out over the phone."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "I understand your concern, Mrs. Davies, but this is a secure line, and it's standard procedure for identity verification. I can assure you, this is necessary to protect your funds. We also need to cancel these fraudulent transactions and issue you a new card."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Okay… the last four digits are 47… wait a minute. What kind of transactions are these? Can you tell me what the amount is?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "One is for $789 to… let me see… Best Buy online, and the other is for $1250 to… uh… a travel agency in Florida."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "I haven't ordered anything from Best Buy and definitely haven’t booked any travel. This is definitely not me."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Right, Mrs. Davies. So, to proceed, I need you to confirm your one-time password that has just been sent to your registered mobile number. This will allow me to freeze the transactions."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Wait a minute… I haven’t received any text messages. This sounds… fishy. I think I’m going to call the bank directly to confirm this."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Mrs. Davies, with all due respect, every second counts. While you're on hold, those transactions could go through! This is a time-sensitive matter. Please, just read me the OTP."
+    }
+  ],
+  "num_speakers": 2,
+  "speaker_roles": [
+    "victim",
+    "scammer"
+  ],
+  "timestamp": "2025-10-19T12:33:31.035987"
+}

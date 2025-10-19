@@ -1,0 +1,73 @@
+{
+  "file_id": "conv_002",
+  "scam_type": "relative_emergency",
+  "language": "hinglish",
+  "segments": [
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Namaste Madam, this is Rahul calling from the security department of State Bank of India. Am I speaking with Mrs. Sharma?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Haan, bol rahi hoon. What is it?"
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, we've detected some suspicious activity on your debit card. Two unauthorized transactions are showing up – one for ten thousand rupees at a Flipkart store, and another for five thousand at some Zomato place. Did you make these transactions?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Nahin, nahin! I haven't bought anything online today. This is… this is worrying."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Exactly, Madam. That's why I'm calling. To block your card immediately and prevent further fraudulent transactions, we need to verify your identity. Can you please confirm the last four digits of your debit card number?"
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Um… okay. Just a second… it's… four, seven, two, nine."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Thank you, Madam. Now, for security reasons, a One-Time Password, an OTP, has been sent to your registered mobile number. Please tell me that OTP, so we can secure your account."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "Wait, wait, wait… OTP? But, Rahul, why do you need the OTP? Isn’t that for *me* to authorize transactions? This sounds… a bit strange."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, I understand your concern, but this is a security protocol. We need to verify it's really you who's on the phone. It's only for verification purposes, trust me. Otherwise, those fifteen thousand rupees will be gone, and potentially more! Jaldi kijiye, Madam, the OTP is only valid for a few minutes."
+    },
+    {
+      "speaker": "VICTIM",
+      "role": "victim",
+      "text": "No… I… I don't know. I think I’m going to call the bank directly to check on this. Thank you for letting me know about the suspicious activity."
+    },
+    {
+      "speaker": "SCAMMER",
+      "role": "scammer",
+      "text": "Madam, please listen! You are wasting precious time! If you call the bank now, it will take ages to get through, and by then it will be too late! Madam, trust me, I am trying to help you. The OTP..."
+    }
+  ],
+  "num_speakers": 2,
+  "speaker_roles": [
+    "victim",
+    "scammer"
+  ],
+  "timestamp": "2025-10-19T12:33:26.323419"
+}
